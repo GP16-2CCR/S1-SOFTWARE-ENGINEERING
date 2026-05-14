@@ -37,7 +37,7 @@ O documento principal encontra-se em formato PDF no diretório raiz:
 
 ---
 
-# 🏫 Informações Acadêmicas
+# Informações Acadêmicas
 
 - **Instituição:** FIAP  
 - **Turma:** 2CCR
